@@ -40,12 +40,12 @@
              
 
         if($number1!=$number2){
-            //echo "<p>Larger Number: $largerNumber</p>";
-            echo "{$number1} is larger than {$number2}";
+            echo "<p>Larger Number: $largerNumber</p>";
+            
         }
         else{
-            //echo "<p>Result: $largerNumber</p>";
-            echo "{$number2} is larger than {$number1}";
+            echo "<p>Result: $largerNumber</p>";
+            
         }
     }
     ?>
